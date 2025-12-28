@@ -1,9 +1,9 @@
-import Hero from "./components/Hero"
-
-export default function App() {
+const App = () => {
   return (
-    <main>
-      <Hero />
-    </main>
+    <div>
+      hello world
+    </div>
   )
 }
+
+export default App
